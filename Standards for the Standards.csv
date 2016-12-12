@@ -1,0 +1,129 @@
+Standards for the Standards,,,,,,,,,
+Category,Farm Features & Attributes,Farm & Model,Health & Safety,Irrigation &Effluent,Land Application,Pasture Graze Feed,Animal,Financial,Stock Reconciliation
+Catalogue Structure,"Feature Type
+Definition
+Synonyms
+Feature Catalogue/Package
+(Aligned to ISO 19110)","Feature / Category
+Attributes
+Data Types and Notes","Feature / Category
+Definition (Section 3.2)
+Attributes
+Data Types and Notes","Attributes 
+Data Types 
+Notes","Category
+Attributes
+Data Types and Notes","Category, Notes and other names, Attributes, Data Types and Notes","Appendix A
+Attributes
+Description
+Data Type
+Appendix B
+Category 
+Observation 
+Notes and other names 
+Attributes 
+Data Types and Notes","Attributes or Fields, Data Types and Notes","Section Name, Notes and other names, Attributes or Fields, Data types and Notes"
+General Spatial Attributes,"Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough",n/a,n/a,n/a,n/a
+Location Identifiers,"URN namespace identifier
+• urn:epc:id:sgln or
+• a nzl: registered location namespace","URN namespace identifier
+• urn:epc:id:sgln or
+• a nzl: registered location namespace","URN namespace identifier
+• urn:epc:id:sgln or
+• a nzl: registered location namespace","URN namespace identifier
+• urn:epc:id:sgln or
+• a nzl: registered location namespace","URN namespace identifier
+• urn:epc:id:sgln or
+• a nzl: registered location namespace","URN namespace identifier
+• urn:epc:id:sgln or
+• a nzl: registered location namespace","URN namespace identifier
+• urn:epc:id:sgln or
+• a nzl: registered location namespace",n/a,n/a
+Farm Title,Cadastral Parcel,Cadastral Parcel,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Farm Entity,Holding,Farm system overall description,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+Paddock/Field,Plot,n/a,n/a,n/a,n/a,Paddock ID,Change Paddock,n/a,n/a
+Management Block,Site,Mgmt Block,n/a,A.11 Block Name,Block Name A.1 'or paddock',n/a,n/a,n/a,n/a
+Crop/Vegetation/Pasture,"PlotActivityValue
+(References Pasture, Grazing & Feed Standard)",References FF&A Standard,n/a,n/a,n/a,"Crop Class
+Grazing System
+Pasture Type
+(References FF&A Standard)",n/a,n/a,n/a
+Feed Types,n/a,n/a,n/a,n/a,n/a,Feed Type,"Feed Names
+(References Pasture, Grazing & Feed Standard)",n/a,n/a
+Feature Identification,"Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough","Geographic Coordinates
+Geographic Shape
+Feature Identifier
+Feature Name
+validFrom
+validThrough",n/a,n/a,n/a,n/a
+Structure,"Agribuilding
+(References INSPIRE)","Structure Type
+(References FF&A Standard)","Agribuilding  /  Installation
+(References FF&A Standard)",Effluent Storage Type,n/a,"Structure Type
+(References FF&A Standard)",n/a,n/a,n/a
+Technical Installation,"Agribuilding
+(References INSPIRE)",References FF&A Standard,n/a,Equipment Type,n/a,n/a,n/a,n/a,n/a
+Soil,"Soil Body
+(References INSPIRE/ANZSoilML)","Soil Zone
+(References FF&A Standard)",n/a,"Soil Moisture Attributes
+(References FF&A Standard)",n/a,n/a,n/a,n/a,n/a
+Effuent,"
+(References I&E standard)","Irrigation Practices and Systems
+(References I&E standard)
+",n/a,"Appendix A,B",n/a,"
+(References I&E standard)",n/a,n/a,n/a
+Waterways,"Watercourse
+Waterway",n/a,n/a,"Water source
+(References FF&A Standard)",n/a,n/a,n/a,n/a,n/a
+Enterprise,n/a,Enterprise Identification and Attributes - 5.3,,n/a,n/a,n/a,n/a,n/a,Appenix A - Enterprise
+Hazards,Natural Environmental,n/a,Hazards,n/a,n/a,n/a,n/a,n/a,n/a
+"Person & Details, Roles",n/a,"Owner, Supplier","Staff, contractor, Visitor,",n/a,Operator ID and name,n/a,"Diagnosed By
+Role Diagnosed By",,"Type, Owner"
+Organisation,n/a,Supplier,Organisation Name,n/a,n/a,n/a,n/a,n/a,n/a
+Transaction ID,n/a,n/a,n/a,n/a,n/a,n/a,n/a,Transaction ID,Transaction
+,,,,,,,,,
